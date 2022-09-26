@@ -1,1 +1,1 @@
-#Kjo eshte detya e pare lidhur me perdorimin e HTML etiketave
+Kjo eshte detya e pare lidhur me perdorimin e HTML etiketave
