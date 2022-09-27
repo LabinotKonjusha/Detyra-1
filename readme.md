@@ -1,1 +1,3 @@
-Kjo eshte detya e pare lidhur me perdorimin e HTML etiketave
+Ky projekt permban:
+Detyrat lidhur me perdorimin e etiketava HTML-s
+Detyra 
